@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.NavBar{
+    display: inline;
+    text-align: center;
+    font-size: 30px;
+}
+
+.List{
+    display: flex;
+    font-size: 20px;
+    justify-content: space-around;
+    align-items: end;
+    gap: 80px;
+    list-style-type: none;
+    background-color: rgba(136, 15, 15, 0.829);
+    color: inherit;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+}
+
+.Imagen{
+    max-width: 40px;
+    max-height: 40px;
+}
+
+h3{
+    background-color: rgba(136, 15, 15, 0.829);
+    color: rgb(255, 255, 255);
+}
